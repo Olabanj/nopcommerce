@@ -1,4 +1,5 @@
 {
     "baseUrl":"https://demo.nopcommerce.com/",
-    "chromeWebSecurity":false
+    "chromeWebSecurity":false,
+    "watchForFileChanges":true
 }
